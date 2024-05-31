@@ -1,0 +1,10 @@
+Name: Erling Haaland, Goals: 19, Club: Manchester City, Nationality: Norway
+Name: Ollie Watkins, Goals: 18, Club: Aston Villa, Nationality: England
+Name: Cole Palmer, Goals: 16, Club: Chelsea, Nationality: England
+Name: Mohamed Salah, Goals: 16, Club: Liverpool, Nationality: Egypt
+Name: Dominic Solanke, Goals: 16, Club: Bournemouth, Nationality: England
+Name: Jarrod Bowen, Goals: 15, Club: West Ham United, Nationality: England
+Name: Alexander Isak, Goals: 15, Club: Newcastle United, Nationality: Sweden
+Name: Son Heung-Min, Goals: 15, Club: Tottenham Hotspur, Nationality: South Korea
+Name: Phil Foden, Goals: 14, Club: Manchester City, Nationality: England
+Name: Bukayo Saka, Goals: 14, Club: Arsenal, Nationality: England
